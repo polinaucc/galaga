@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/img">
+        <file alias="b1a">Resources/baddie1-A.png</file>
+        <file alias="b1b">Resources/baddie1-B.png</file>
+        <file alias="b2a">Resources/baddie2-A.png</file>
+        <file alias="b2b">Resources/baddie2-B.png</file>
+        <file alias="b1d">Resources/baddieDie-1.png</file>
+        <file alias="b2d">Resources/baddieDie-2.png</file>
+        <file alias="b3d">Resources/baddieDie-3.png</file>
+        <file alias="b4d">Resources/baddieDie-4.png</file>
+        <file alias="b5d">Resources/baddieDie-5.png</file>
+        <file alias="bad_m">Resources/badMissile.png</file>
+        <file alias="good_m">Resources/goodMissile.png</file>
+        <file alias="ship">Resources/ship.png</file>
+        <file alias="space">Resources/space.png</file>
+        <file alias="cherry">Resources/cherry.png</file>
+        <file alias="heart">Resources/heart.png</file>
+    </qresource>
+</RCC>
